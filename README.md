@@ -1,16 +1,14 @@
-# fruithero
+# Curved Design
 
-A new Flutter project.
+Code for a simple ui screen created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/K1uH_SN4X0w
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190801-030839](https://user-images.githubusercontent.com/8137504/62318844-51c08900-b4ba-11e9-9aca-85b9641234ee.png)
+![Screenshot_20190801-030856](https://user-images.githubusercontent.com/8137504/62318845-51c08900-b4ba-11e9-9390-aa9c35e0ce70.png)
+![Screenshot_20190801-030910](https://user-images.githubusercontent.com/8137504/62318847-52591f80-b4ba-11e9-984d-0f6f400a92f7.png)
+![Screenshot_20190801-030918](https://user-images.githubusercontent.com/8137504/62318848-52591f80-b4ba-11e9-8124-cddda049b70a.png)
