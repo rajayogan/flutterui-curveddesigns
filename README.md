@@ -1,4 +1,4 @@
-# Curved Design using flutter
+# Curved Design Using Flutter
 
 Code for a simple ui screen created with flutter.
 
